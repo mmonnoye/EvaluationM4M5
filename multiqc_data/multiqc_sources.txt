@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	QC | SRR10390685_2	/shared/ifbstor1/home/mmonnoye/EvaluationM4M5/QC/SRR10390685_2_fastqc.zip
+FastQC	all_sections	QC | SRR10390685_1	/shared/ifbstor1/home/mmonnoye/EvaluationM4M5/QC/SRR10390685_1_fastqc.zip
